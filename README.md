@@ -92,7 +92,8 @@
 </details>
 
 
-**11) CONSULTA HISTÓRICO DE MODIFICAÇÃO DAS PREFERÊNCIAS **
+**11) CONSULTA HISTÓRICO DE MODIFICAÇÃO DAS PREFERÊNCIAS**
+
 (Binary JSON contendo um ARRAY de histórico)
 <details><summary> Histórico.</summary>
 <p align="center">
@@ -104,6 +105,26 @@
 <img src="https://user-images.githubusercontent.com/54047352/166626348-5c13e632-06ac-41ed-9547-57b98f8bf9df.png">
 </p>
 </details>
+
+CONEXÃO COM *ATLAS*, BD NÃO-ESTRUTURADO EM NUVEM.
+
+https://github.com/ODAGAMMXIX/PFOLIO6_OPTIN_OUT/blob/aa82d170c540c2ad9a7f03495e7a9bbf81d2b234/imgs/Screenshot%20from%202022-06-19%2023-11-29.png
+
+*asdict*
+https://github.com/ODAGAMMXIX/PFOLIO6_OPTIN_OUT/blob/aa82d170c540c2ad9a7f03495e7a9bbf81d2b234/imgs/Screenshot%20from%202022-06-19%2023-13-24.png
+
+*@staticmethod*
+https://github.com/ODAGAMMXIX/PFOLIO6_OPTIN_OUT/blob/9f9935e8c5b85b2c0366b5e9ba42d5ba8ce6f79a/imgs/Screenshot%20from%202022-06-19%2023-50-10.png
+
+*Recibo* artefato tecnológico com **valor jurídico de prova**
+https://github.com/ODAGAMMXIX/PFOLIO6_OPTIN_OUT/blob/aa82d170c540c2ad9a7f03495e7a9bbf81d2b234/imgs/Screenshot%20from%202022-06-19%2023-14-20.png
+
+Minimalismo do Mongo: apenas 02 colections, sem relacionamento.
+https://github.com/ODAGAMMXIX/PFOLIO6_OPTIN_OUT/blob/aa82d170c540c2ad9a7f03495e7a9bbf81d2b234/imgs/Screenshot%20from%202022-06-19%2023-17-32.png
+
+*Documento* pode conter uma ARRAY de dados, prescindível o relacionamento.
+https://github.com/ODAGAMMXIX/PFOLIO6_OPTIN_OUT/blob/aa82d170c540c2ad9a7f03495e7a9bbf81d2b234/imgs/Screenshot%20from%202022-06-19%2023-18-21.png
+
 
 
 # II -  TECNOLOGIAS ADOTADAS NA SOLUÇÃO.
