@@ -131,23 +131,20 @@
 
 # IV - APRENDIZADOS EFETIVOS
 
-:heavy_check_mark: No BACKEND, criação de conexão com o Mongo Client, 
+**BACKEND.**
 
-:heavy_check_mark: Extração e transformação de dados do ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white), simulando os registros de desempenho acadêmico no BD da aplicação legado;
+:heavy_check_mark: criação de conexão ao **Atlas** (com o Mongo Client), em nuvem, onde o banco não-estruturado está disponível.
 
-:heavy_check_mark: Extração e transformação de dados do ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white), simulando os registros de de CHAT e *logs* no BD da aplicação legado;
+:heavy_check_mark: utilização da função *asdict*, que transforma um conjunto de dados num dicionário de dados (mapeamento em memória);
 
-:heavy_check_mark: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white), recebe os dados extraídos e transformados (*Loading*);
+:heavy_check_mark: utilização da classe *staticmethod* para ignorar o primeiro argumento implícito e trata a varredura de todos os *documentos* dentro de uma *Coleção* no ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white).
 
-:heavy_check_mark: DATA WAREHOUSE - Um *Datamart* para cada a indicador métrico apresentado no *DASHBOARD*;
+:heavy_check_mark: Tecnologia com **VALOR JURÍDICO DE PROVA**, o **RECIBO** posterior às alterações provocadas pelo usuário.
 
-:heavy_check_mark: *DASHBOARD*, emulando o PDI-PENTAHO, para a apresentação dos dados estratégicos;
+**BANCO DE DADO NÃO-ESTRUTURADOS**
 
-:heavy_check_mark: Estudo profundo do PENTAHO, realizando ETL (Extraction, Transformation, Loading) de múltiplas fontes (SQLServer,MongoDB, CSV);
-
-:heavy_check_mark: Implantar BD distribuídos, clusterização e fragmentação.
-
-
+:heavy_check_mark: Duas coleções (vis-à-vis tabelas) sem qualquer relacionamento ou substitutivo.
+:heavy_check_mark: As alterações são registradas dentro do **documento** *user*, que contém um ARRAY com o histórico de alterações, prescindindo uma entidade específica e relacionamento com as demais.
 
 ## Running it up
 
@@ -170,4 +167,4 @@
 
 The End.
 :arrow_up: 
-[`Go Back Up`](#java-oracle-api---recrutamento-por-geolocaliza%C3%A7%C3%A3o-e-outros-crit%C3%A9rios).
+[`Go Back Up`](#https://github.com/ODAGAMMXIX/PFOLIO6_OPTIN_OUT/blob/main/README.md#i---resumo-do-projeto-disciplina-temas-avancados-de-bancos-de-dados).
