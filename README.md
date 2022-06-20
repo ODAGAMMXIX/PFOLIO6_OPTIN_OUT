@@ -210,4 +210,4 @@ Minimalismo do Mongo: apenas 02 colections, sem relacionamento.
 
 The End.
 :arrow_up: 
-[`Go Back Up`](#https://github.com/ODAGAMMXIX/PFOLIO6_OPTIN_OUT/blob/main/README.md#i---resumo-do-projeto-disciplina-temas-avancados-de-bancos-de-dados).
+[`Go Back Up`](#i---resumo-do-projeto-disciplina-temas-avancados-de-bancos-de-dados).
