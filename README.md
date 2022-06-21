@@ -19,11 +19,11 @@
 
 **1) A ARQUITETURA DA APLICAÇÃO**
 
-<details><summary> Arquitetura.</summary>
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/165441157-5dfd32f0-fa09-41ea-82b9-3c9c73636201.png">
 </p>
-</details>
+
 
 **2) CRIA E ATUALIZA CONTRATO (PARA RECEBIMENTO DE COMUNICAÇÕES)**
 <details><summary> Contrato.</summary>
