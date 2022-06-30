@@ -70,7 +70,7 @@
  
  
 <img src="https://user-images.githubusercontent.com/54047352/166626359-96d2e8f8-feeb-442c-b882-39c8a6fd0ba7.png">
-    (usuária: Iron-man)
+    (usuário: Iron-man)
 </p>
 </details>
 
