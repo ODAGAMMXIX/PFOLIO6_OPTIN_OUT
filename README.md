@@ -25,6 +25,8 @@
 </p>
 
 
+https://youtu.be/GpuobVEHDqM
+
 **2) CRIA E ATUALIZA CONTRATO (PARA RECEBIMENTO DE COMUNICAÇÕES)**
 <details><summary> Contrato.</summary>
 <p align="center">
@@ -210,6 +212,8 @@ Minimalismo do Mongo: apenas 02 colections, sem relacionamento.
 # flask run
 
 * Running on http://127.0.0.1:5000/
+
+https://youtu.be/GpuobVEHDqM
 
 The End.
 :arrow_up: 
