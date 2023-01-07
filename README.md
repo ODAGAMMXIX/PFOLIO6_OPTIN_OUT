@@ -28,45 +28,45 @@
 https://youtu.be/GpuobVEHDqM
 
 **2) CRIA E ATUALIZA CONTRATO (PARA RECEBIMENTO DE COMUNICAÇÕES)**
-<details><summary> Contrato.</summary>
+<details open><summary> Contrato.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/166626339-8e182d75-7d2e-4ac7-8137-514244de1b69.png">
 <img src="https://user-images.githubusercontent.com/54047352/166626340-9d461710-2c9c-4c50-b4f4-1d8ad796ace8.png">
 </p>
-</details>
+</details open>
  
 **3) MOSTRA O ÚLTIMO CONTRATO EM VIGOR**
-<details><summary> Latest.</summary>
+<details open><summary> Latest.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/166626341-69e0d45b-0d3d-4df2-8a24-476e2af35d68.png">
 </p>
-</details>
+</details open>
 
 **4) CRIA USUÁRIO**
-<details><summary>Usuário.</summary>
+<details open><summary>Usuário.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/166626344-6cce5e90-73b6-4af0-9b0b-875b2b012aec.png">
 </p>
-</details>
+</details open>
 
 **5) ATRIBUI O CONTRATO AO USUÁRIO (CHAVE: E-MAIL)
 
-<details><summary> "Assinatura".</summary>
+<details open><summary> "Assinatura".</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/166626349-8233bd13-d742-4354-96ff-10f96a8c39df.png">
 </p>
-</details>
+</details open>
 
 **6) RECIBO DO USUÁRIO COM AS ALTERAÇÕES ESCOLHIDAS**
-<details><summary> Recibo.</summary>
+<details open><summary> Recibo.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/166626352-3694be99-fe27-42e5-86a0-0e35cda16967.png">
    (usuária: Natasha Romanoff)
 </p>
-</details>
+</details open>
 
 **7) ALTERAÇÃO DE PREFERÊNCIAS COM RECIBO DAS ESCOLHAS**
-<details><summary> Altera_Preferências</summary>
+<details open><summary> Altera_Preferências</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/166626354-daeba86b-2b48-40e1-8d82-b225443f8653.png">
   (usuário: Iron-man)
@@ -75,32 +75,32 @@ https://youtu.be/GpuobVEHDqM
 <img src="https://user-images.githubusercontent.com/54047352/166626359-96d2e8f8-feeb-442c-b882-39c8a6fd0ba7.png">
     (usuário: Iron-man)
 </p>
-</details>
+</details open>
 
 **8) CONSULTA PREFERÊNCIAS DESDE A ÚLTIMA ALTERAÇÃO**
 
-<details><summary> Consulta_Preferências</summary>
+<details open><summary> Consulta_Preferências</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/166626356-d5dd58cb-25e6-4504-b6ef-8f106e929cd5.png">
 </p>
-</details>
+</details open>
 
 
 **10) ATRIBUI AS PREFERÊNCIAS A UM DETERMINADO CONTRATO**
-<details><summary> Altera_contrato.</summary>
+<details open><summary> Altera_contrato.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/166626364-67a3aeac-a853-4a34-84c3-4025ded4557d.png">
 <img src="https://user-images.githubusercontent.com/54047352/166626366-9936d33d-00a6-4715-b624-09d6c4dfc16d.png">
 <img src="https://user-images.githubusercontent.com/54047352/166626368-f17c67a9-377f-4c0f-b8b1-d471d7dee4f2.png">
 <img src="https://user-images.githubusercontent.com/54047352/166626369-fd736e7e-24c2-488e-8443-48b5b997ef0e.png">
 </p>
-</details>
+</details open>
 
 
 **11) CONSULTA HISTÓRICO DE MODIFICAÇÃO DAS PREFERÊNCIAS**
 
 (Binary JSON contendo um ARRAY de histórico)
-<details><summary> Histórico.</summary>
+<details open><summary> Histórico.</summary>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54047352/166626370-d6c316a1-ca1d-4899-bbaf-a3f66a63255d.png">
 <img src="https://user-images.githubusercontent.com/54047352/166626372-5d75a461-b724-4607-b70a-b2a251e15154.png">
@@ -109,50 +109,50 @@ https://youtu.be/GpuobVEHDqM
 <img src="https://user-images.githubusercontent.com/54047352/166626346-142bc1fd-36b1-470c-8f8a-9d6e0e0f8f79.png">
 <img src="https://user-images.githubusercontent.com/54047352/166626348-5c13e632-06ac-41ed-9547-57b98f8bf9df.png">
 </p>
-</details>
+</details open>
 
 CONEXÃO COM *ATLAS*, BD NÃO-ESTRUTURADO EM NUVEM.
 
-<details><summary> (Clique aqui)</summary>
+<details open><summary> (Clique aqui)</summary>
 <p align="center">
 <img src="https://github.com/ODAGAMMXIX/PFOLIO6_OPTIN_OUT/blob/aa82d170c540c2ad9a7f03495e7a9bbf81d2b234/imgs/Screenshot%20from%202022-06-19%2023-11-29.png">
 </p>
-</details>
+</details open>
 
 *asdict*
-<details><summary> (Clique aqui)</summary>
+<details open><summary> (Clique aqui)</summary>
 <p align="center">
 <img src="https://github.com/ODAGAMMXIX/PFOLIO6_OPTIN_OUT/blob/aa82d170c540c2ad9a7f03495e7a9bbf81d2b234/imgs/Screenshot%20from%202022-06-19%2023-13-24.png">
 </p>
-</details>
+</details open>
 
 *@staticmethod*
-<details><summary> (Clique aqui)</summary>
+<details open><summary> (Clique aqui)</summary>
 <p align="center">
 <img src="https://github.com/ODAGAMMXIX/PFOLIO6_OPTIN_OUT/blob/9f9935e8c5b85b2c0366b5e9ba42d5ba8ce6f79a/imgs/Screenshot%20from%202022-06-19%2023-50-10.png">
 </p>
-</details>
+</details open>
 
 *Recibo*: artefato tecnológico com **valor jurídico de prova**
-<details><summary> (Clique aqui)</summary>
+<details open><summary> (Clique aqui)</summary>
 <p align="center">
 <img src="https://github.com/ODAGAMMXIX/PFOLIO6_OPTIN_OUT/blob/aa82d170c540c2ad9a7f03495e7a9bbf81d2b234/imgs/Screenshot%20from%202022-06-19%2023-14-20.png">
 </p>
-</details>
+</details open>
 
 Minimalismo do Mongo: apenas 02 colections, sem relacionamento.
-<details><summary> (Clique aqui)</summary>
+<details open><summary> (Clique aqui)</summary>
 <p align="center">
 <img src="https://github.com/ODAGAMMXIX/PFOLIO6_OPTIN_OUT/blob/aa82d170c540c2ad9a7f03495e7a9bbf81d2b234/imgs/Screenshot%20from%202022-06-19%2023-17-32.png">
 </p>
-</details>
+</details open>
 
 *Documento* pode conter uma ARRAY de dados, prescindível o relacionamento.
-<details><summary> (Clique aqui)</summary>
+<details open><summary> (Clique aqui)</summary>
 <p align="center">
 <img src="https://github.com/ODAGAMMXIX/PFOLIO6_OPTIN_OUT/blob/aa82d170c540c2ad9a7f03495e7a9bbf81d2b234/imgs/Screenshot%20from%202022-06-19%2023-18-21.png">
 </p>
-</details>
+</details open>
 
 # II -  TECNOLOGIAS ADOTADAS NA SOLUÇÃO.
 
